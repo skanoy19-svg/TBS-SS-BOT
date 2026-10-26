@@ -1,0 +1,6 @@
+{
+  "name": "QuantSignal AI",
+  "description": "Quotex Screenshot AI signal analyzer and unified binary options decision engine evaluating candlesticks, S/R, and multimodal chart data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
